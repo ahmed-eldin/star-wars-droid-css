@@ -1,10 +1,10 @@
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="887" alt="Screenshot 2023-07-31 at 6 01 12 PM" src="https://github.com/ahmed-eldin/star-wars-droid-css/assets/111728755/c6d232d1-444f-4298-a3c3-267bae8f70c1">
 
 
 # Star Wars CSS Droid
 
-This Star Wars Droid Page is a simple CSS webpage dedicated to showcasing the BB-8 Droid from the  Star Wars Sequel Trilogy. Dive into the world of technology and sci-fi as you explore the fascinating details and image of the BB-8 Droid while clouds float by in the background.
+This Star Wars Droid Page is a simple CSS webpage dedicated to showcasing the BB-8 Droid from the Star Wars Sequel Trilogy. Dive into the world of technology and sci-fi as you explore the fascinating details and image of the BB-8 Droid while clouds float by in the background.
 
 ## Features
 
